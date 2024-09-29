@@ -27,7 +27,7 @@
   "author": "pathof.dev",
   "license": "MIT",
   "devDependencies": {
-    "rollup": "^1.19.3",
+    "rollup": "^2.79.2",
     "tslint": "^5.18.0",
     "tslint-language-service": "^0.9.9",
     "typescript": "^3.5.3",
